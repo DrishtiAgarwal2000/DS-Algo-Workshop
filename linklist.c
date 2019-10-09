@@ -25,11 +25,11 @@ printf("LINEAR QUEUE OPERATIONS\n");
 while(1)
 {
     printf("-------------------------------------------\n");
-    printf("         1  -->   Insert at beginning\n");
+    printf("         1  -->   Insert at begin\n");
     printf("         2  -->   Delete at beginning\n");
     printf("         3  -->   transverse \n");
     printf("         4  -->   Insert at last\n");
-    printf("         5  -->   Insert anywhere\n");
+    printf("         5  -->   Insert\n");
     printf("         6  -->   EXIT\n");
     printf("-------------------------------------------\n");
     printf("Enter Your Choice \n");
